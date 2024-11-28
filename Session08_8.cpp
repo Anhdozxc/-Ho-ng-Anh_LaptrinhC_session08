@@ -9,5 +9,7 @@
 		sum+=a[i][4-i-1];
 	}
 	printf("\nTong cac phan tu o duong cheo chinh trong mang la :%d",sum);
+
+	 return 0;
 }
 
