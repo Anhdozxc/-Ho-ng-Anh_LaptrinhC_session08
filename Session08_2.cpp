@@ -14,5 +14,7 @@
 	}
 	if(index==0) 
 		printf("Phan tu khong ton tai trong mang ");
+	 return 0;
 }
+
 
